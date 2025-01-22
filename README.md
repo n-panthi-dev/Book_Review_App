@@ -83,10 +83,7 @@ php artisan serve
 ![1](/assets/screenshots/6.png)
 ![1](/assets/screenshots/7.png)
 ![1](/assets/screenshots/9.png)
-![1](/assets/screenshots/10.png)
-![1](/assets/screenshots/11.png)
-![1](/assets/screenshots/12.png)
-![1](/assets/screenshots/13.png)
+
 
 
 # Video link
